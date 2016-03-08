@@ -10,6 +10,6 @@ Mem	fieldscur=??????????ĳ???&'()*+,-./0125689BFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdef
 	winflags=195892, sortindx=21, maxtasks=0
 	summclr=5, msgsclr=5, headclr=4, taskclr=5
 Usr	fieldscur=???????????)+,-./1234568;<=>?@ABCFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghij
-	winflags=195892, sortindx=3, maxtasks=0
+	winflags=195350, sortindx=18, maxtasks=0
 	summclr=3, msgsclr=3, headclr=2, taskclr=3
-Fixed_widest=0, Summ_mscale=0, Task_mscale=0, Zero_suppress=0
+Fixed_widest=4, Summ_mscale=0, Task_mscale=0, Zero_suppress=1
